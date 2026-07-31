@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋 I'm John<br><br>💻 Web Developer<br>🌱 Learning React and Node.js<br>📫 Email: john@example.com<br><br>## Skills<br>- HTML<br>- CSS<br>- JavaScript<br>- Python<br><br>## Projects<br>- Portfolio Website<br>- Weather App<br>- Calculator
+# Hi 👋 I'm Vikash<br><br>💻 Web Developer<br>🌱 Learning React and Node.js<br>📫 Email: mvikash_cse2405w6@mgit.ac.in<br><br>## Skills<br>- HTML<br>- CSS<br>- JavaScript<br>- Python<br><br>## Projects<br>- Portfolio Website<br>- Weather App<br>- Calculator
 
 
 # 💻 Tech Stack:
